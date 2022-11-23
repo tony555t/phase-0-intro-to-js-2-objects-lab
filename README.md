@@ -1,4 +1,4 @@
-# Objects Lab
+# Objects LabupdateEmployeeWithKeyAndValue()
 
 ## Learning Goals
 
@@ -32,7 +32,7 @@ variable (destructively and non-destructively) in this lab.
 Once you've initialized the `employee` Object, you'll need to create the
 following four functions:
 
-- `updateEmployeeWithKeyAndValue()`: this function should take in three
+- ``: this function should take in three
   arguments: an `employee` `Object`, a `key` and a `value`. This function should
   not mutate the `employee`; it should return a _new_ `Object` that has an
   updated `value` for the `key` passed in. **Hint**: use the spread operator!
